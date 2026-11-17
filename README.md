@@ -4,6 +4,20 @@
 
 GuroDesk is an offline Windows desktop app for school records: student profiles, enrollment, attendance, E-Class Record, grades, promotion, permanent records, and DepEd forms and reports (SF1, SF2, SF5, SF9, SF10 and more), with print/PDF and backup/restore. There is no license, trial, activation, or payment. Every feature works on every computer, and no internet connection is needed.
 
+![GuroDesk dashboard](docs/screenshots/dashboard.png)
+
+## Screenshots
+
+| Attendance | E-Class Record |
+| --- | --- |
+| ![Attendance](docs/screenshots/attendance.png) | ![E-Class Record](docs/screenshots/class-record.png) |
+| **Grades & promotion** | **Report cards (SF9)** |
+| ![Grades and promotion](docs/screenshots/grades.png) | ![Report cards](docs/screenshots/report-cards.png) |
+| **DepEd forms & reports** | |
+| ![DepEd forms and reports](docs/screenshots/forms.png) | |
+
+*Screenshots use the built-in demo school with fictional learners.*
+
 ## Download
 
 Get the latest version from the [**Releases page**](../../releases/latest):
