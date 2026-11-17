@@ -2,7 +2,7 @@
 
 ## Windows setup
 
-1. Run `release/GuroDesk Setup 1.6.0.exe`.
+1. Download and run `GuroDesk.Setup.1.9.0.exe` from the [latest release](https://github.com/rxbytecom/GuroDesk/releases/latest).
 2. Choose an installation directory and complete the installer.
 3. Launch **GuroDesk** from the Start menu or desktop shortcut.
 4. Complete the school profile, school year, and administrator credentials.
